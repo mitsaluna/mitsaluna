@@ -1,16 +1,27 @@
 ### mitsaluna👋
+# Biodata
 
-<!--
-**mitsaluna/mitsaluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama: mitsaluna
 
-Here are some ideas to get you started:
+## Tentang Saya:
+[Tuliskan tentang diri Anda di sini]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan:
+- [sma] -(2023-2025)
+
+## Keahlian:
+- Keahlian 1
+
+## Proyek:
+1. **Judul Proyek 1**
+   - Deskripsi singkat proyek.
+   - Tautan repositori atau situs web jika ada.
+   
+2. **Judul Proyek 2**
+   - Deskripsi singkat proyek.
+   - Tautan repositori atau situs web jika ada.
+
+## Kontak:
+- Email: kaymitkay@gmail.com
+- LinkedIn: [Profil LinkedIn]
+- Website: [Alamat Website]
